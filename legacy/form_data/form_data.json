@@ -1,0 +1,1158 @@
+[
+  {
+    "_id": {
+      "$oid": "67dd9938d6e894b8410486e1"
+    },
+    "unidade": "Centro de Tecnologia em Nanomateriais e Grafeno da Universidade Federal de Minas Gerais",
+    "sigla": "CTNANO",
+    "tema": "Materiais Avançados e Nanotecnologia ",
+    "frentes": "Cadeia do grafeno, Nanocompósitos, Nanossensores",
+    "pontoFocal": "Marina Prass Santos",
+    "tel": null,
+    "email": "embrapii@ctnano.org",
+    "areaP": "Semicondutores",
+    "politica": 4,
+    "linhaspesquisa": [
+      "Materiais Cerâmicos e Cimentícios",
+      "Nanocompósitos Poliméricos",
+      "Síntese de Nanomateriais",
+      "Saúde, Meio Ambiente e Segurança",
+      "Caracterização e Metrologia",
+      "Operações",
+      "Materiais Metálicos"
+    ],
+    "cidade": "Belo Horizonte",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9938d6e894b8410486e2"
+    },
+    "unidade": "Unidadade EMBRAPII da Escola de Minas da Universidade Federal de Ouro Preto",
+    "sigla": "UFOP",
+    "tema": "Mineração Sustentável",
+    "frentes": " Fabricação de blocos que serão aplicados em pavimentação ",
+    "pontoFocal": "",
+    "tel": null,
+    "email": "jaurelio@ufop.edu.br",
+    "areaP": "Construção civil digital e de\nbaixo carbono\nIndústria metroferroviária",
+    "politica": 3,
+    "linhaspesquisa": [
+      "Operações Sustentáveis de Mina",
+      "Processos Sustentáveis na Mineração",
+      "Tratamento e Manejo Sustentável de Resíduos e das Águas"
+    ],
+    "cidade": "Ouro Preto",
+    "coordenadas": {
+      "lat": -20.385527,
+      "lon": -43.5035214
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9938d6e894b8410486e3"
+    },
+    "unidade": "Unidade EMBRAPII  do Instituto Federal de Minas Gerais (Formiga)",
+    "sigla": "IFMG ",
+    "tema": "Mobilidade e sistemas inteligentes",
+    "frentes": "Sistemas Automotivos Inteligentes",
+    "pontoFocal": "Paloma Maira de Oliveira Lima",
+    "tel": null,
+    "email": "diretoria.polo@ifmg.edu.br",
+    "areaP": "Indústria 4.0\nProdutos digitais\n Semicondutores\n",
+    "politica": 4,
+    "linhaspesquisa": [
+      "Arquiteturas veiculares",
+      "Conectividade",
+      "Computação móvel distribuída",
+      "Interação com o usuário"
+    ],
+    "cidade": "Formiga",
+    "coordenadas": {
+      "lat": -20.4648425,
+      "lon": -45.4266753
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9938d6e894b8410486e4"
+    },
+    "unidade": "Unidade EMBRAPII - Departamento de Ciência da Computação da Universidade Federal de Minas Gerais",
+    "sigla": "DCC",
+    "tema": " Software para sistemas ciberfísicos",
+    "frentes": "Prosperidade e monitoramento de dados, Gestão da Informação, Mecanismos para tomada de decição e Atuação. ",
+    "pontoFocal": "Geraldo Robson Mateus",
+    "tel": null,
+    "email": "contato@embrapii.dcc.ufmg.br",
+    "areaP": "Indústria 4.0\nProdutos digitais\n Semicondutores\n",
+    "politica": 4,
+    "linhaspesquisa": [
+      "Redes e Comunicação",
+      "Visão Computacional ",
+      "Internet das oisas ",
+      "Reconhecimento de Padrões Visuais ",
+      "Logística ",
+      "Segurança digital ",
+      "Análise  de Big Data",
+      "Cidades Inteligentes ",
+      "Sistemas Inteligentes ",
+      "Robótica ",
+      "Mobile ",
+      "Ciência de Dados ",
+      "Inteligência Artificial ",
+      "Otimização",
+      "Business Inteligence ",
+      "Sistemas Embarcafos",
+      "Aprendizagem de Máquinas",
+      "Agentes e Computação Social ",
+      "Indústria 4.0"
+    ],
+    "cidade": "Belo Horizonte",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9939d6e894b8410486e5"
+    },
+    "unidade": "Unidade EMBRAPII da Agência de Inovação em Geotecnologias e Sistemas Inteligentes no Agronegócio da Universidade Federal de Lavras",
+    "sigla": "ZETTA/UFLA",
+    "tema": "Geotecnologia e Sistemas Intelogentes",
+    "frentes": "Inovação tecnológica, geotecnologias, ciência de dados e implementação de sistemas inteligentes",
+    "pontoFocal": "",
+    "tel": null,
+    "email": "embrapii.zetta@ufla.br",
+    "areaP": " Equipamentos para agricultura de precisão\nMáquinas agrícolas para a grande produção e para a agricultura familiar\nBiofertilizantes",
+    "politica": 1,
+    "linhaspesquisa": ["Agricultura Digital"],
+    "cidade": "Lavras",
+    "coordenadas": {
+      "lat": -21.2425512,
+      "lon": -44.9991978
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9939d6e894b8410486e6"
+    },
+    "unidade": "Unidade EMBRAPII da Faculdade de Engenharia Mecânica da Universidade Federal de Uberlândia",
+    "sigla": "FUMEC/UFU",
+    "tema": "Tecnologias metal-mecânica ",
+    "frentes": "Pesquisa, Desenvolvimento e Inovação de Arames MIG/MAG, Projeto de Avaliação de Propriedades Mecânicas e Integridade sob Hidrogenação em Amostras Miniaturas, Desenvolvimento de Componentes Resistentes à Corrosão para Sistemas de Troca de Calor de Usinas de Açúcar e Álcool.",
+    "pontoFocal": "Louriel Oliveira Vilarinho",
+    "tel": null,
+    "email": "vilarinho@ufu.br",
+    "areaP": "Semicondutores",
+    "politica": 4,
+    "linhaspesquisa": [
+      "Estudo de desgaste abrasivo, erosivo e adesivo",
+      "Estudos de corrosão",
+      "Coeficiente de atrito e pares tribológicos",
+      "Determinação de Propriedades mecânicas de materiais",
+      "Fragilização por hidrogênio",
+      "Processos de soldagem",
+      "Dispositivos de soldagem",
+      "Controle e automação de soldagem",
+      "Manufatura aditiva"
+    ],
+    "cidade": "Uberlândia",
+    "coordenadas": {
+      "lat": -18.9188041,
+      "lon": -48.2767837
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9939d6e894b8410486e7"
+    },
+    "unidade": "Unidade EMBRAPII da Fundação para Inovações Tecnológicas ",
+    "sigla": "FITec Belo Horizonte ",
+    "tema": "Desenvolvimento de projetos de PD&I para empresas",
+    "frentes": "A Área de Competência “Sistemas de Visão Computacional, Inteligência Artificial e Conectividade” se insere na temática da Inteligência Artificial (IA) e Conectividade através da Internet das Coisas (IoT), contempla a integração de sistemas de software com dispositivos e equipamentos possibilitando atender as empresas industriais no desenvolvimento de soluções de inovação tecnológica",
+    "pontoFocal": "Astrid Maria Carneiro Heinisch",
+    "tel": null,
+    "email": "fitecbh.embrapii@fitec.org.br\n",
+    "areaP": "Indústria 4.0\nProdutos digitais\n Semicondutores\n",
+    "politica": 4,
+    "linhaspesquisa": [
+      "Equipamentos e Dispositivos para Integração em Plataformas IoT:",
+      "Sistemas Inteligentes de Software para Transformação Digital",
+      "Processamento de Imagens e Visão Computacional"
+    ],
+    "cidade": "Belo Horizonte",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9939d6e894b8410486e8"
+    },
+    "unidade": "Unidade EMBRAPII do Departamento de Engenharia Florestal da Universidade Federal de Viçosa",
+    "sigla": "DEF/UFV",
+    "tema": "Fibras Florestais",
+    "frentes": "Produção e qualidade de fibras florestais;, Conversão das fibras florestais em produto e energia, Meio Ambiente e Sustentabilidade.",
+    "pontoFocal": "",
+    "tel": null,
+    "email": "fitecbh.embrapii@fitec.org.br\n",
+    "areaP": "Máquinas agrícolas para a grande produção e para a agricultura familiar\nBiofertilizantes",
+    "politica": 1,
+    "linhaspesquisa": [
+      "Inventário florestal de espécies nativas para dispositivos móveis",
+      "Reaproveitamento de resíduos de coco verde como biocarvão",
+      "Secagem e Pré-pirólise da madeira para produção sustentável do carvão vegetal"
+    ],
+    "cidade": "Viçosa",
+    "coordenadas": {
+      "lat": -20.7538586,
+      "lon": -42.8815888
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9939d6e894b8410486e9"
+    },
+    "unidade": "Unidade EMBRAPII do Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",
+    "sigla": "IF Sul de Minas ",
+    "tema": "Agroindústria do Café",
+    "frentes": "Indústria de Máquinas e Implementos\nIndústria de Torra e Moagem de C​​afé                                                        Indústria de Insumos na Área de Cafeicultura",
+    "pontoFocal": "Leandro Carlos Paiva",
+    "tel": null,
+    "email": "leandro.paiva@ifsuldeminas.edu.br",
+    "areaP": "Equipamentos para agricultura de precisão\nMáquinas agrícolas para a grande produção e para a agricultura familiar\nBiofertilizantes",
+    "politica": 1,
+    "linhaspesquisa": [
+      "Laboratório de Análises Físicas e Sensoriais",
+      "Laboratório de Análises Químicas",
+      "Laboratório de Análises de Solos e Tecido Vegetal",
+      "Laboratório de Fisiologia Vegetal, Biotecnologia e Cultura de Tecidos Vegetais ",
+      "Laboratório de Geoprocessamento e Sensoriamento Remoto",
+      "Laboratório de Classificação de Café",
+      "Laboratório de Torra e Moagem",
+      "Núcleo de Pós Colheita",
+      "Laboratório de Automação",
+      "Laboratórios de Informática ",
+      "Cafeteria Escola",
+      "Centro de Validação Tecnológica (CVT)",
+      "Núcleo de Qualidade do Café",
+      "Núcleo de Inovação Tecnológica"
+    ],
+    "cidade": "Machado",
+    "coordenadas": {
+      "lat": -21.6762861,
+      "lon": -45.9211696
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9939d6e894b8410486ea"
+    },
+    "unidade": "Unidade EMBRAPII do Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro",
+    "sigla": "IFTM",
+    "tema": "Soluções Agroalimentares ",
+    "frentes": "Recipientes biodegradáveis para produção vegetal, Compostos bioativos aplicados na indústria de alimentos; ecnologias de revestimentos para liberação controlada, polímeros e nanopartículas em fertilizantes de alta performance; Inovações para aplicação de fertilizantes, bioestimulantes e defensivos em plantas, entre outros.",
+    "pontoFocal": "Fernanda Barbosa Borges Jardim",
+    "tel": null,
+    "email": "poloembrapii@iftm.edu.br",
+    "areaP": "Equipamentos para agricultura de precisão\nMáquinas agrícolas para a grande produção e para a agricultura familiar\nBiofertilizantes",
+    "politica": 1,
+    "linhaspesquisa": [
+      "Produtos e processos para produção vegetal",
+      "Tecnologias para o processamento agroindustrial"
+    ],
+    "cidade": "Uberaba",
+    "coordenadas": {
+      "lat": -19.750833,
+      "lon": -47.936666
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9939d6e894b8410486eb"
+    },
+    "unidade": "Unidade EMBRAPII do Instituto Nacional de Telecomunicações",
+    "sigla": "Inatel",
+    "tema": "Comunicações Digitais",
+    "frentes": "Projeto xGMobile, Proposta de Rede de Acesso para as Futuras Redes de Comunicação Móvel Baseada em Rádio Definido por Software, Uma Nova Base Comum Mínima para NovaGenesis e NSaaS: Avançando Infraestrutura Ciberfísicas com Funções de Blockchain e IA, Otimização de Sistemas de Transmissão de Energia Sem Fio assistidos por STAR-RIS, entre outros. ",
+    "pontoFocal": "Sandro Duarte Azevedo",
+    "tel": null,
+    "email": "sandro_duarte@inatel.br",
+    "areaP": "Indústria 4.0\nProdutos digitais",
+    "politica": 4,
+    "linhaspesquisa": [
+      "Dispositivos de comunicação digital e radiofrequência",
+      "Arquiteturas e dispositivos de redes de alta densidade (IoT)",
+      "Sistemas de monitoramento remoto"
+    ],
+    "cidade": "Santa Rita do Sapucaí",
+    "coordenadas": {
+      "lat": -22.2486968,
+      "lon": -45.7064507
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9939d6e894b8410486ec"
+    },
+    "unidade": "Unidade EMBRAPII do Instituto SENAI de Inovação em Metalurgia e Ligas Especiais",
+    "sigla": "ISI MLE",
+    "tema": "Ações e ligas especiais",
+    "frentes": "Desenvolvimento de ligas metálicas, desde o projeto virtual da liga até a fusão de um lingote padrão; Otimização de ligas através de simulação virtual; Simulação de processos de soldagem e união de materiais; Otimização do processo de fabricação de peças por fundição; Otimização do processo de forjamento e laminação; Simulação física de processos termomecânicos; Otimização de desempenho de revestimentos, aumento de resistência à corrosão e propriedades tribológicas; Desenvolvimento de ligas e revestimentos para moldes injeção e matrizes de conformação; Desenvolvimento e otimização de processos de tratamento térmico.",
+    "pontoFocal": "José Luciano de Assis Pereira",
+    "tel": null,
+    "email": "jose.luciano@fiemg.com.br",
+    "areaP": "Semicondutores",
+    "politica": 4,
+    "linhaspesquisa": [
+      "Desenvolvimento e otimização de ligas",
+      "Desenvolvimento e otimização de processos metalúrgicos",
+      "Desenvolvimento tecnológico de Manufatura Aditiva a Arco (MADA)"
+    ],
+    "cidade": "Belo Horizonte",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67dd9939d6e894b8410486ed"
+    },
+    "unidade": "Unidade Embrapii de Inovação para fármacos e vacinas",
+    "sigla": "FarmaVax/UFMG",
+    "tema": "",
+    "frentes": "Gestão estratégica de PI e Inovação                                                Sequenciamento genômico, Sistemas nanoencapsulados e controlada, Modelos experimentais in vitro                                                \nPurificação de misturas complexas                                                \nRadiofármacos, Estudos pré-clínicos e clínicos, Infraestrutura e equipamemtos                                                 ",
+    "pontoFocal": "",
+    "tel": null,
+    "email": "sinisterra@ufmg.br",
+    "areaP": "Fármacos, medicamentos\ne terapias avançadas\n Vacinas, soros e hemoderivados\nDispositivos médicos\nTecnologias da informação e conectividade",
+    "politica": 2,
+    "linhaspesquisa": [
+      "CT Terapias ",
+      "CT Vacinas ",
+      "CT Nanobiomateriais",
+      "CT Medicina Molecular"
+    ],
+    "cidade": "Belo Horizonte",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef13f2514c3e4e0adf73"
+    },
+    "sigla": " INCT-RT",
+    "site": "https://polo.ufsc.br/institucional/unidade-inct.html#:~:text=INCT%20em%20Refrigera%C3%A7%C3%A3o%20e%20Termof%C3%ADsica,cria%C3%A7%C3%A3o%20do%20programa%2C%20em%202008.",
+    "instituicao": "ufmg ",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "polo@polo.ufsc.br",
+    "politica": 5,
+    "unidade": "INCT em Refrigeração e Termofísica",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf74"
+    },
+    "sigla": "CDTN/CNEN",
+    "site": "https://estatico.cnpq.br/programas/inct/_apresentacao/inct_reatores_nucleares.html#missao",
+    "instituicao": "ufmg ",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "",
+    "politica": 6,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia de Reatores Nucleares Inovadores",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf75"
+    },
+    "sigla": "CT vacinas",
+    "site": "https://www.ctvacinas.ufmg.br",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "biologicas",
+    "email": "ctvacinas@gmail.com",
+    "politica": 2,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia para o Desenvolvimento de Vacinas",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf76"
+    },
+    "sigla": "CTMM",
+    "site": "https://ctmm.medicina.ufmg.br/",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "saúde",
+    "email": "imagemolecular@gmail.com",
+    "politica": 2,
+    "unidade": "Centro de Tecnologia em Medicina Molecular",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf77"
+    },
+    "sigla": "ETEs Sustentáveis",
+    "site": "https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TDdJLk9JzzM3YLRSNqhINLM0SDNNNE0xNkoyN7QyqDBMS7MwtUgxMDZIMklLTTLwEkotSS1WKC4tLknNKzm8sCw1sxgA9PEW6g&q=etes+sustent%C3%A1veis&oq=etes+susten&gs_lcrp=EgZjaHJvbWUqEAgBEC4YrwEYxwEYgAQYjgUyBggAEEUYOTIQCAEQLhivARjHARiABBiOBTIKCAIQABiABBiiBDIKCAMQABiiBBiJBTIHCAQQABjvBTIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDQ2MjdqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8",
+    "instituicao": "ufmg ",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "inct.etes.sustentaveis@gmail.com",
+    "politica": 3,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia em ETEs Sustentáveis",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf78"
+    },
+    "sigla": "Gestrado ",
+    "site": "https://www.instagram.com/gestradoufmg/",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "humanas, sociais aplicadas e educação",
+    "email": "gestradoufmg@gmail.com",
+    "politica": 4,
+    "unidade": "INCT Política Educacional e Trabalho Docente",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf79"
+    },
+    "sigla": "IN2PAST",
+    "site": "https://in2past.org/",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "humanas, sociais aplicadas e educação",
+    "email": "Professor Fabrício Rodrigues dos Santos",
+    "politica": 4,
+    "unidade": "INCT de Pesquisa em História Natural, Patrimônio Cultural, Artes, Sustentabilidade e Território",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf7a"
+    },
+    "sigla": "INAIS",
+    "site": "https://www.inct-inais.com/",
+    "instituicao": "ufu",
+    "cidade": "uberlandia ",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "inct.inais@ufpe.br",
+    "politica": 6,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia em Instrumentação Nuclear e Aplicações na Indústria e Saúde",
+    "coordenadas": {
+      "lat": -18.9188041,
+      "lon": -48.2767837
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf7b"
+    },
+    "sigla": "INCC",
+    "site": "https://incc.tcti.ibict.br/",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "humanas, sociais aplicadas e educação",
+    "email": "",
+    "politica": 4,
+    "unidade": "Instituro Nacional de Ciência Cidadã",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf7c"
+    },
+    "sigla": "INCT - INOFAR",
+    "site": "http://www.inct-inofar.ccs.ufrj.br/inofar2009/",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "exatas e da terra",
+    "email": "hberaldo@ufmg.br",
+    "politica": 2,
+    "unidade": "O Instituto Nacional de Ciência e Tecnologia de Fármacos e Medicamentos",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf7d"
+    },
+    "sigla": "INCT - MI",
+    "site": "https://inct-mi.pesquisa.ufabc.edu.br/",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "exatas e da terra",
+    "email": "comunicacao.inct.mi@outlook.com",
+    "politica": 4,
+    "unidade": "INCT Materials Informatics",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf7e"
+    },
+    "sigla": "INCT Ancestralidade genômica, doenças e bioinformática no Brasil",
+    "site": "Desenvolver um arcabouço conceitual para explicar como a dinâmica da miscigenação dos brasileiros influencia a distribuição de doenças complexas e raras, e a resposta a fármacos. Produziremos estimativas mais acuradas de risco de doenças complexas e melhores diagnósticos de doenças raras, assim como conceitos e ferramentas bioinformáticas, a serem transferidos no ecossistema de inovação e medicina de precisão, interagindo com o SUS e empresas tecnológicas. Esse conhecimento e seus produtos serão internacionalizados, particularmente nos contextos ibero-americano e dos Hispanos dos USA. Considerando que a maior parte dos conhecimentos em genômica humana derivam de populações europeias, o foco nas ancestralidades africana e nativa americana dos brasileiros é uma oportunidade para elucidar novas variantes genéticas, mecanismos de patogênese e possíveis alvos farmacológicos.",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "saúde",
+    "email": "",
+    "politica": 2,
+    "unidade": "INCT Ancestralidade genômica, doenças e bioinformática no Brasil",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf7f"
+    },
+    "sigla": "INCT Biodiversidade de Solo",
+    "site": "https://ufla.br",
+    "instituicao": "ufla",
+    "cidade": "lavras",
+    "uf": "mg",
+    "tipo": "agraria",
+    "email": "",
+    "politica": 1,
+    "unidade": "Biodiversidade de Solo",
+    "coordenadas": {
+      "lat": -21.2425512,
+      "lon": -44.9991978
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf80"
+    },
+    "sigla": "INCT CA",
+    "site": "https://www.inctca.ufv.br",
+    "instituicao": "ufv",
+    "cidade": "viçosa",
+    "uf": "mg",
+    "tipo": "agraria",
+    "email": "",
+    "politica": 1,
+    "unidade": "Tecnologia de Ciência Animal",
+    "coordenadas": {
+      "lat": -20.7538586,
+      "lon": -42.8815888
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf81"
+    },
+    "sigla": "INCT CQMED",
+    "site": "https://www.cqmed.unicamp.br",
+    "instituicao": "puc-mg",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "biologicas",
+    "email": "cqmed@unicamp.br",
+    "politica": 2,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia Centro de Química Medicinal de Acesso Aberto",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf82"
+    },
+    "sigla": "INCT FEP",
+    "site": "https://www.inctfepufv.com.br",
+    "instituicao": "ufv",
+    "cidade": "viçosa",
+    "uf": "mg",
+    "tipo": "biologicas",
+    "email": "wlaraujo@ufv.br",
+    "politica": 1,
+    "unidade": "INCT em Fisiologia de Plantas em Condições de Estresse (INCT Fisiologia do Estresse)",
+    "coordenadas": {
+      "lat": -20.7538586,
+      "lon": -42.8815888
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf83"
+    },
+    "sigla": "INCT GNSS-NavAer Tecnologia GNSS no Suporte à Navegação Aérea",
+    "site": "https://inct-gnss-navaer.fct.unesp.br/pt/projeto.php",
+    "instituicao": "ifsul de minas",
+    "cidade": "inconfidentes",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "webmaster.gnssnavaer@gmail.com",
+    "politica": 4,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia",
+    "coordenadas": {
+      "lat": -22.3168866,
+      "lon": -46.3279182
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf84"
+    },
+    "sigla": "INCT INOVATOX",
+    "site": "https://www.inovatoxinct.com/",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "saúde",
+    "email": "inctvenenos@gmail.com",
+    "politica": 2,
+    "unidade": "INCT voltado para Estudo de Toxicinas - Venenos e Antivenenos",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf85"
+    },
+    "sigla": "INCT Inibidores de Urease",
+    "site": "https://ufmg.br",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "agraria",
+    "email": "adefatima.geqob@gmail.com",
+    "politica": 1,
+    "unidade": "Inibidores de Urease de Interesse Agrícola e Medicinal",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf86"
+    },
+    "sigla": "INCT Instituto da Democracia",
+    "site": "https://www.institutodademocracia.org/",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "humanas, sociais aplicadas e educação",
+    "email": "institutodademocracia@institutodademocracia.org",
+    "politica": 4,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia da Democracia e da Democratização da Comunicação",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf87"
+    },
+    "sigla": "INCT Leveduras",
+    "site": "https://www.inctleveduras.org/",
+    "instituicao": "ufmg ",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "ecologia, meio ambiente",
+    "email": "dayse_lacerda@yahoo.com.br",
+    "politica": 1,
+    "unidade": "INCT leveduras; Biodiversidade, preservação e inovações biotecnológicas",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf88"
+    },
+    "sigla": "INCT NIM",
+    "site": "http://inct.cnpq.br/instituto-energia",
+    "instituicao": "uftm",
+    "cidade": "uberaba",
+    "uf": "mg",
+    "tipo": "biologicas",
+    "email": "inctnim2014@gmail.com",
+    "politica": 2,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia Neuroimmunomodulação",
+    "coordenadas": {
+      "lat": -19.750833,
+      "lon": -47.936666
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf89"
+    },
+    "sigla": "INCT NanoFarma",
+    "site": "https://inctnanofarma.wixsite.com/inctnano",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "saúde",
+    "email": "inctnanofarma@gmail.com",
+    "politica": 2,
+    "unidade": "INCT Nanotecnologia Farmacêutica: uma abordagem transdisciplinar (INCT-NANOFARMA)",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf8a"
+    },
+    "sigla": "INCT Nanobiofar",
+    "site": "https://www.inctnanobiofar.com.br/",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "saúde",
+    "email": "inctnanobiofarmaceutica@gmail.com",
+    "politica": 2,
+    "unidade": "Instituto Nacional em Nano-Biofarmacêutica",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf8b"
+    },
+    "sigla": "INCT Nanocarbono",
+    "site": "https://www.inctnanocarbono.com/",
+    "instituicao": "ufmg ",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "nanocarbono@gmail.com",
+    "politica": 5,
+    "unidade": "Instituo Nacional de Ciência e Tecnologia de Nanomateriais de Carbono ",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf8c"
+    },
+    "sigla": "INCT Odonto",
+    "site": "http://inct.ufu.br/odonto",
+    "instituicao": "ufu",
+    "cidade": "uberlândia",
+    "uf": "mg",
+    "tipo": "saúde",
+    "email": "contato@ufu.br",
+    "politica": 2,
+    "unidade": "Saúde Oral e Odontologia",
+    "coordenadas": {
+      "lat": -18.9188041,
+      "lon": -48.2767837
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf8d"
+    },
+    "sigla": "INCT POX",
+    "site": "https://www.inctpox.com/",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte ",
+    "uf": "mg",
+    "tipo": "saúde",
+    "email": "inctpox@gmail.com",
+    "politica": 2,
+    "unidade": "NSTITUTO NACIONAL DE CIÊNCIA E TECNOLOGIA EM POXVÍRUS",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf8e"
+    },
+    "sigla": "INCT PPED",
+    "site": "https://inctpped.ie.ufrj.br/",
+    "instituicao": "ufjf",
+    "cidade": "juiz de fora",
+    "uf": "mg",
+    "tipo": "humanas, sociais aplicadas e educação",
+    "email": "inctpped.secretaria@gmail.com e inct.pped@gmail.com",
+    "politica": 4,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia de Políticas Públicas, Estratégia e Desenvolvimento",
+    "coordenadas": {
+      "lat": -21.7609533,
+      "lon": -43.3501129
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef14f2514c3e4e0adf8f"
+    },
+    "sigla": "INCT Segurança de Solo e Alimento",
+    "site": "https://nistsfs.ufla.br",
+    "instituicao": "ufla",
+    "cidade": "lavras",
+    "uf": "mg",
+    "tipo": "agraria",
+    "email": "nctsfs@ufla.br",
+    "politica": 1,
+    "unidade": "Segurança de Solo e Alimento",
+    "coordenadas": {
+      "lat": -21.2425512,
+      "lon": -44.9991978
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf90"
+    },
+    "sigla": "INCT SpinNanoMAg",
+    "site": "https://www.inctspinanomag.org/c%C3%B3pia-sobre",
+    "instituicao": "ufv",
+    "cidade": "viçosa",
+    "uf": "mg",
+    "tipo": "exatas e da terra ",
+    "email": "inct-spinanomag@ufv.br",
+    "politica": 6,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia de\nSpintrônica e Nanoestruturas Magnéticas Avançadas",
+    "coordenadas": {
+      "lat": -20.7538586,
+      "lon": -42.8815888
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf91"
+    },
+    "sigla": "INCT do Bioetanol",
+    "site": "https://inctbioetanol.ib.usp.br/início",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "biologicas",
+    "email": "inct.bioetanol@ib.usp.br ",
+    "politica": 5,
+    "unidade": "INCT do Bioetanol",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf92"
+    },
+    "sigla": "INCT em Dengue",
+    "site": "https://labs.icb.ufmg.br/inctemdengue/",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "biologicas",
+    "email": "mmtex.ufmg@gmail.com",
+    "politica": 2,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia em Dengue e Interação Microorganismo-hospedeiro",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf93"
+    },
+    "sigla": "INCT em interações planta-praga",
+    "site": "https://estatico.cnpq.br/programas/inct/_apresentacao/inct_planta_praga.html#:~:text=O%20INCT%20em%20Interações%20Planta,multidisciplinares%20e%20multi-institucionais%20que",
+    "instituicao": "ufv",
+    "cidade": "viçosa",
+    "uf": "mg",
+    "tipo": "biologicas",
+    "email": "bbfontes@ufv.br",
+    "politica": 1,
+    "unidade": "INCT em interações planta-praga",
+    "coordenadas": {
+      "lat": -20.7538586,
+      "lon": -42.8815888
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf94"
+    },
+    "sigla": "INCT leveduras",
+    "site": "https://www.inctleveduras.org",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "biologicas",
+    "email": "inctleveduras@gmail.com",
+    "politica": 1,
+    "unidade": "Biodiversidade, preservação e inovações biotecnológicas",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf95"
+    },
+    "sigla": "INCT – Circularidade em Materiais Poliméricos",
+    "site": "https://inctcircularidade.com/",
+    "instituicao": "ufla",
+    "cidade": "lavras",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "inctcircularidade@embrapa.br",
+    "politica": 5,
+    "unidade": "INCT – Circularidade em Materiais Poliméricos",
+    "coordenadas": {
+      "lat": -21.2425512,
+      "lon": -44.9991978
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf96"
+    },
+    "sigla": "INCT-CMN",
+    "site": "https://www.inct-catalise.com.br/Instituto/index.html",
+    "instituicao": "ufmg ",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "inctcatalise2016@gmail.com",
+    "politica": 1,
+    "unidade": "INCT de Catálise em Sistemas Moleculares e Nanoestruturados",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf97"
+    },
+    "sigla": "INCT-CPCT",
+    "site": "https://inct-cpct.fiocruz.br/apresentacao/",
+    "instituicao": "ufmg ",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "inct.cpct@gmail.com",
+    "politica": 4,
+    "unidade": "INCT de Comunicação Pública da Ciência e Tecnologia",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf98"
+    },
+    "sigla": "INCT-EIE",
+    "site": "https://comunica.ufu.br/noticias/2023/12/ufu-volta-sediar-instituto-nacional-de-ciencia-e-tecnologia-de-estruturas",
+    "instituicao": "ufu",
+    "cidade": "uberlandia ",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "",
+    "politica": 4,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia de Estruturas Inteligentes em Engenharia",
+    "coordenadas": {
+      "lat": -18.9188041,
+      "lon": -48.2767837
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf99"
+    },
+    "sigla": "INCT-HYMPAr",
+    "site": "https://hympar.com.br",
+    "instituicao": "ufmg",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "biologicas",
+    "email": "contato@hympar.com.br",
+    "politica": 1,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia dos Hymenoptera Parasitoides",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf9a"
+    },
+    "sigla": "INCT-Pátria ",
+    "site": "https://inct-terras-raras.prp.usp.br/",
+    "instituicao": "ctdn",
+    "cidade": "belo horizonte",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "",
+    "politica": 4,
+    "unidade": "Processamento e Aplicações de  Ímãs de Terras Raras \npara Indústria de Alta Tecnologia",
+    "coordenadas": {
+      "lat": -19.9227318,
+      "lon": -43.9450948
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf9b"
+    },
+    "sigla": "INCT-TRIB ",
+    "site": "https://cttrib.furg.br/",
+    "instituicao": "ufu",
+    "cidade": "uberlandia ",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "ct-trib@furg.br",
+    "politica": 5,
+    "unidade": "INCT - Tribologia Verde Voltada para Transição Energética ",
+    "coordenadas": {
+      "lat": -18.9188041,
+      "lon": -48.2767837
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf9c"
+    },
+    "sigla": "INCT-TeraNano",
+    "site": "http://www.teranano.ufu.br/",
+    "instituicao": "ufu",
+    "cidade": "uberlândia",
+    "uf": "mg",
+    "tipo": "saúde",
+    "email": "",
+    "politica": 2,
+    "unidade": "INCT Teranóstica e Nanobiotecnologia",
+    "coordenadas": {
+      "lat": -18.9188041,
+      "lon": -48.2767837
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf9d"
+    },
+    "sigla": "INE",
+    "site": "https://sites.google.com/unesp.br/ineo2020/in%C3%ADcio/pesquisadores-participantes/polo-rio-minas",
+    "instituicao": "ufop",
+    "cidade": "ouro preto",
+    "uf": "mg",
+    "tipo": "exatas e da terra",
+    "email": "ineo.social@gmail.com ",
+    "politica": 6,
+    "unidade": "IN de Eletrônica Orgânica",
+    "coordenadas": {
+      "lat": -20.385527,
+      "lon": -43.5035214
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf9e"
+    },
+    "sigla": "INERGE",
+    "site": "https://inergeinct.com/",
+    "instituicao": "ufjf ",
+    "cidade": "juiz de fora",
+    "uf": "mg",
+    "tipo": "engenharias, energias e ti",
+    "email": "",
+    "politica": 3,
+    "unidade": "Instituto Nacional de Ciência e Tecnologia em Energia Elétrica",
+    "coordenadas": {
+      "lat": -21.7609533,
+      "lon": -43.3501129
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e2ef15f2514c3e4e0adf9f"
+    },
+    "sigla": "INFO",
+    "site": "https://www.inct.info/pt/#institutions",
+    "instituicao": "unifal",
+    "cidade": "alfenas",
+    "uf": "mg",
+    "tipo": "exatas e da terra",
+    "email": "https://www.inct.info/pt/#contact",
+    "politica": 6,
+    "unidade": "INCT de Fototônica",
+    "coordenadas": {
+      "lat": -21.4297405,
+      "lon": -45.9479419
+    }
+  }
+]

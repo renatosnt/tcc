@@ -1,0 +1,34 @@
+Coluna,Descrição
+cadastro_aprovado,Indica se o cadastro foi aprovado pela equipe do SIMI.
+autorizacao_divulgacao,Confirma se a organização autorizou a divulgação pública de suas informações.
+nome_organizacao,O nome oficial ou fantasia da organização.
+cidade_sede,A cidade onde a sede principal da organização está localizada.
+uf_sede,A Unidade Federativa (Estado) da sede da organização.
+logo_url,O link (URL) para a imagem do logotipo da organização.
+descricao_organizacao,"Texto descritivo sobre as atividades, missão e propósito da organização."
+site_organizacao,O endereço do site oficial da organização.
+email_contato,O principal e-mail de contato fornecido pela organização.
+categoria_organizacao,"A principal categoria em que a organização se enquadra (ex: Startup, Governo, ICT)."
+fase_investimento_busca,Qual estágio de desenvolvimento das startups/empresas que o programa trabalha? (valido para Pré-aceleradora | Aceleradora | Venture Builder)
+incentivos_fiscais_municipio,Descreve os incentivos fiscais que um município oferece para empresas de tecnologia.
+orgao_responsavel_cti,"O departamento responsável pela pauta de Ciência, Tecnologia e Inovação (CTI)."
+tipo_organizacao,Uma sub-categoria ou tipo mais específico da organização.
+contato_divulgacao_cientifica,O contato do setor ou pessoa responsável pela divulgação científica.
+possui_nit,Informa se a organização possui um NIT (Núcleo de Inovação Tecnológica).
+areas_expertise,As principais áreas do conhecimento ou competências técnicas da organização.
+tese_investimento,Descreve os critérios e o foco de um investidor para realizar investimentos.
+num_startups_investidas,O número de startups no portfólio de um investidor ou aceleradora.
+segmento_atuacao,"O principal mercado ou setor de atuação da organização (ex: Saúde, Agro)."
+programas_desenvolvimento,"Descreve os programas (de aceleração, fomento) oferecidos pela organização."
+modelo_negocio,"Como a organização gera receita ou entrega valor (ex: SaaS, Marketplace)."
+tecnologias_disruptivas,"As principais tecnologias que a organização desenvolve ou utiliza (ex: IA, IoT)."
+segmentacao_clientes,"O público-alvo principal da organização (ex: B2B, B2C)."
+fase_negocio,"O estágio atual de desenvolvimento do negócio (ex: Ideação, Tração)."
+numero_funcionarios,"O tamanho da equipe da organização, geralmente apresentado em faixas."
+fase_investimento_captada,O estágio de investimento mais recente que a organização já recebeu.
+busca_investimento,"Indica se a organização está ativamente procurando por investimento (""Sim"" ou ""Não"")."
+linkedin_url,O link para a página oficial da organização no LinkedIn.
+preferencia_segmento,Indica a preferência de um investidor ou programa por um segmento de atuação.
+beneficios_programa,Os benefícios específicos oferecidos por um programa de desenvolvimento.
+investimento_medio_startup,O valor médio (check-size) que um investidor aporta por startup.
+exige_equity,Informa se um programa exige participação acionária (equity) da startup.

@@ -14,9 +14,9 @@ st.set_page_config(
 # --- Carregamento dos Dados ---
 # Dicionário que mapeia os nomes das seções aos seus respectivos arquivos CSV
 ARQUIVOS_CSV = {
-    "Executores": '../reports/classificacao_final_revisada.csv',
-    "Base de Conhecimento e P&D": '../reports/base_conhecimento_pd.csv',
-    "Demais Organizações": '../reports/demais_organizacoes.csv'
+    "Executores": './reports/classificacao_final_revisada.csv',
+    "Base de Conhecimento e P&D": './reports/base_conhecimento_pd.csv',
+    "Demais Organizações": './reports/demais_organizacoes.csv'
 }
 
 # Função com cache para carregar os dados, evitando recarregamentos desnecessários
